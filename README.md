@@ -4,4 +4,4 @@
 - 💞️ I'm seeking collaboration opportunities for various front-end projects
 - 📫 How to reach me monureddy04@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+  
