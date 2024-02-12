@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MonuReddyy
+- 👋 Hi, I’m Monu Reddy
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Front End 
-- 💞️ I’m looking to collaborate on Different Projects regarding Front End and Internships on Front End
+- 💞️ I'm seeking collaboration opportunities for various front-end projects
 - 📫 How to reach me monureddy04@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
